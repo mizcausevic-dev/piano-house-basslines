@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:51.402888+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "0ba2ebe6ad9eb2a585bb5cf8a531de6c89e8f46bc3908db6f8b11d16d44df4fd",
+      "errors": []
+    },
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "eb8ec088211980fcfa6e439001c57d19b86f80ce8f49ee71dc87c1c1776f3812",
+      "errors": []
+    },
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "58e1c7f4f7b8c26a6a2162fd542623279ddb1134f86aafc797a2e5a12be9ac9f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "68f842734fbf49dc5fb63c091cbcf7e5a539de8b93371160080e4178aaf29cbe",
+      "errors": []
+    },
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da",
+      "errors": []
+    },
+    {
+      "path": "midi/z0801-piano-house-basslines-opening/z0801-piano-house-basslines-opening-combined.mid",
+      "bytes": 6043,
+      "sha256": "02f91fae1256d2ec83e157a2449e354cd4a8e0faf51ea84b3fb06213fddb3812",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "94f0256a69ca90efe9a61d2dc2b57e26784e15188a98b3be03c4874fe5d2373a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6951da9aacc918c50c02b1082f986bb67eaaeef85eeb7cbbaf6f8bc99eea33be",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "85efb47a33ac78791bd3fd0569023699503454ef1385c32f75dd6abdae183a21",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "dca1720b62d3e87a277a3d6cdceedcc700f0eafbc01b1c971bc1c9aee367247a",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f710fb77d64276ac95988c30acb2190b46950a4708d48e38d42e8e8014ced828",
+      "errors": []
+    },
+    {
+      "path": "midi/z0802-piano-house-basslines-variation/z0802-piano-house-basslines-variation-combined.mid",
+      "bytes": 6043,
+      "sha256": "d0efa1b291f119faeef270597d3b983c0df5718dff3e2e10dd474adc2b5b712c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "530bb612c38fb41e28427911668e9f9540f23871671eeacaeb09b11f4188f9bd",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "122869f15f4b2c6ce04f94ac9a0966ebd70a5adea67ab11dfe2200409a4a8814",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "a20a9bc02f8673e1d1549a9f9f0bcef328bd5f88cfa32706a01e3c8efb255169",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "a7f8ed09448d27244c0220f808a2e7d9f31056ac58ff0af759c6864e2727d614",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cc97f9c847c87ae42b89863a285acde1349c50d36d1bc7979b130bed268eacb5",
+      "errors": []
+    },
+    {
+      "path": "midi/z0803-piano-house-basslines-contrast/z0803-piano-house-basslines-contrast-combined.mid",
+      "bytes": 6011,
+      "sha256": "9af9ac5347e2fc73dc89d76d805d276454d49cb634738bd24b624c56d8a89846",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "6ddfbf623727818fa76bbf60b0a8e7fef9f6ff0d88d7a9f74122723eb4561cc1",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e0ce0e578999cf078aa2c41206cfed3cfe2a30b6dbcf1dfe6a49c0de17db3b7e",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "6593d29906b1aedefe47b72e1a8e43be962534561acfc08063ea4158423aac60",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/sub_bass.mid",
+      "bytes": 846,
+      "sha256": "e7d0e0d5e263a14bfb5a9cf6f31b2591b4ef87b7a252e923a23c14de3da8c7df",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7e202070aad2da5a67d77b49c330ee3a222784e95f69a79c96e25ac77c1a1ffe",
+      "errors": []
+    },
+    {
+      "path": "midi/z0804-piano-house-basslines-return/z0804-piano-house-basslines-return-combined.mid",
+      "bytes": 6011,
+      "sha256": "e1495325284dedc6a40995a35beb55c67f4634ecd3d2395fdce6ae7072baa2f8",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

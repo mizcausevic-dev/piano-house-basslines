@@ -1,0 +1,26 @@
+{
+  "title": "Piano House Basslines",
+  "study": "z0801",
+  "bpm": 122,
+  "source_audio": "preview/piano-house-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "638c4f1907f5cb40272400c2a0c8b1ec356b675b2fb7dcb08ddfd6d1d6e3edf7",
+  "source_midi": "midi/z0801-piano-house-basslines-opening/z0801-piano-house-basslines-opening-combined.mid",
+  "source_midi_sha256": "02f91fae1256d2ec83e157a2449e354cd4a8e0faf51ea84b3fb06213fddb3812",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "b347082d9bf355c922986989b5fc1c6e0809311edcacd0cb68c85158cdbe7188",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "241a2c6f2b9c613c51a938422602f3618b988552d6856e38eed4108120bf02ed",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "c969d3cf416b4b6ec7124268e4fc606ce75260075a6425923c10e65f579513b0",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

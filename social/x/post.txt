@@ -1,0 +1,3 @@
+DRAFT: Piano House Basslines Studies is a four-study original MIDI release at 122 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 145 characters using Python len
