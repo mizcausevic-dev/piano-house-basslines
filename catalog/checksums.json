@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/piano-house-basslines-midi.zip",
-      "bytes": 31718,
-      "sha256": "2df69466a353a67aec7e096bd93563eae2b5dd65cfe6a10f71d29af4bd66f68e"
+      "bytes": 32705,
+      "sha256": "3a4ef3797aae0c190fc798842ad03f69f005754fa065d00535f94a3790d92df9"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9948,
-      "sha256": "3b01023d75cdce4344e66855a2912bbf6ff538fb7048385ea6fbbd127bf8504c"
+      "bytes": 10138,
+      "sha256": "ed76fae89d7d1c79a691212fadf3fbce6a7a0d2f5f2137bb8222647fbe425c04"
     },
     {
       "path": "midi/z0801-piano-house-basslines-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "e1495325284dedc6a40995a35beb55c67f4634ecd3d2395fdce6ae7072baa2f8"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/piano-house-basslines-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "638c4f1907f5cb40272400c2a0c8b1ec356b675b2fb7dcb08ddfd6d1d6e3edf7"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3969,
-      "sha256": "5e31cf64ad6921a37feb8aaa4ad87f366f0d1fec449e84ad50af981233cb4661"
+      "bytes": 4084,
+      "sha256": "317043374ea08e80891f07db664482802774cf1e03acf7230c43029bdc6b31e0"
     },
     {
       "path": "social/instagram/caption.txt",
